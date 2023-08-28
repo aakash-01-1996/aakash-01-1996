@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Aakash 
+- 🌱 I’m passionate about Full Stack Dev
