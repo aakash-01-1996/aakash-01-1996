@@ -6,8 +6,6 @@ I'm an aspiring Software Engineer based in 📍 New York, NY. With a passion for
 
 🤝 I'm always open to collaborating and eager to work with like-minded individuals who share a passion for pushing the boundaries of what technology can achieve.✨
 
-🌱 Currently, I'm exploring new ways to expand my skill set and building exciting projects that challenge me to grow as a developer.
-
-📨 Feel free to reach out to me at aakashambodkar99@gmail.com. Whether for a potential project, tech discussion, or to connect, I'm always interested in making new connections in the tech community.
+📨 Reach out to me at aakashambodkar99@gmail.com
 
   
