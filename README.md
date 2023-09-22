@@ -2,7 +2,7 @@
 <a href="https://your-website-url-here.com">
     <img src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif" alt="Banner" height="200" width="250"/>
   </a>
-</p> --->
+</p> -->
 
 <h1 align="center">Hi 👋, I'm Aakash</h1>
 <h3 align="center">A passionate Software Developer based in New York City</h3>
