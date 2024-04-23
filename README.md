@@ -3,7 +3,7 @@
 <h3 align="center">Software Engineer based in New York City</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 💻 I’m currently working on **E-commerce Websites, Social Media Dashboard, and Music Streaming Apps**
+- 💻 Currently working on **E-commerce Websites, Social Media Dashboard, and Music Streaming Apps**
 
 - 🔗 I’m currently learning **React native, Angular, NextJS**
 
