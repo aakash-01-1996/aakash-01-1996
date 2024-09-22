@@ -5,7 +5,7 @@
 
 - 💻 Currently working on **E-commerce Websites, Social Media Dashboard, and Music Streaming Apps**
 
-- 🔗 I’m currently learning **React native, Angular, NextJS**
+- 🔗 I'm currently learning **Swift, iOS Development, React Native**
 
 - 🤝 I’m open to collaborate on **Open Source Projects**
 
