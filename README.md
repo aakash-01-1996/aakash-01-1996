@@ -2,9 +2,9 @@
 <h3 align="center">Software Engineer based in New York City, NY</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 💻 Currently working on **E-commerce Websites, AI-Powered Assistants, and iOS Applications**
+- 💻 Currently building **AI-Powered Assistants, E-Commerce Platforms, and iOS Applications**
 
-- 🔗 I'm currently learning **Swift, iOS Dev, and React Native**
+- 🔗 I'm currently learning **GraphQL, NextJS, and Swift**
 
 - 🤝 I’m open to collaborate on **Open Source Projects**
 
