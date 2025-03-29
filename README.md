@@ -35,7 +35,12 @@
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
 <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>
 
+<div align="center">
+    <img loading="wavy" width="100%" alt="accent gif" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=footer">
+</div>
  </p>
+ 
+
 
 <!-- <p align="center">
     <img src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif" alt="Banner" height="200" width="250"/>
