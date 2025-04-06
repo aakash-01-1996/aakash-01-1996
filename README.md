@@ -36,8 +36,6 @@
 <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>
 
  </p>
- 
-
 
 <!-- <p align="center">
     <img src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif" alt="Banner" height="200" width="250"/>
