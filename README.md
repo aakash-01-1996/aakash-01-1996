@@ -4,7 +4,7 @@
 
 - 💻 Currently building **AI-Powered Assistants and exploring Agentic Workflows**
 
-- 🔗 I'm currently learning **GraphQL, NextJS, and Agentic AI**
+- 🔗 I'm currently learning **GraphQL, NextJS, and LangGraph**
 
 - 🤝 I’m open to collaborate on **Open Source Projects**
 
