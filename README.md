@@ -10,7 +10,7 @@
 
 - 📨 Contact me at **aakashambodkar99@gmail.com**
 
-- 📄 More about me [https://aakash-01-1996.github.io/portfolio/](https://aakash-01-1996.github.io/portfolio)
+- 📄 More about me [https://aakashambodkar.vercel.app/](https://aakashambodkar.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
