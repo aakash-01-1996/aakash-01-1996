@@ -2,9 +2,9 @@
 <h3 align="center">Software Engineer based in New York City, NY</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 💻 Currently building **AI-Powered Assistants and exploring Agentic Workflows**
+- 💻 Building **AI-Powered Assistants and exploring Agentic Workflows**
 
-- 🔗 I’m currently learning **GraphQL, NextJS, and LangGraph**
+- 🔗 Learning about **RAG, LangChain, and LangGraph**
 
 - 🤝 I’m open to collaborate on **Open Source Projects**
 
