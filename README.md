@@ -4,7 +4,7 @@
 
 - 💻 Building **AI-powered assistants with multi-step agentic capabilities**
  
-- 🔗 Implementing **RAG architectures and graph-based workflow engines**
+- 🔗 Implementing **RAG architectures & graph-based workflow engines**
 
 - 🤝 I’m open to collaborate on **Open Source Projects**
 
