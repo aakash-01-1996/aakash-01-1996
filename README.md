@@ -21,22 +21,22 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="./icons/python.svg" alt="python" width="40" height="40" style="margin: 0 6px"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="./icons/java.svg" alt="java" width="40" height="40" style="margin: 0 6px"/> </a>
-<a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="./icons/cplusplus.svg" alt="cplusplus" width="40" height="40" style="margin: 0 6px"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="./icons/javascript.svg" alt="javascript" width="40" height="40" style="margin: 0 6px"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="./icons/html5.svg" alt="html5" width="40" height="40" style="margin: 0 6px"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="./icons/css3.svg" alt="css3" width="40" height="40" style="margin: 0 6px"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="./icons/react.svg" alt="react" width="40" height="40" style="margin: 0 6px"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="./icons/nodejs.svg" alt="nodejs" width="40" height="40" style="margin: 0 6px"/> </a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="./icons/postgresql.svg" alt="postgresql" width="40" height="40" style="margin: 0 6px"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="./icons/mongodb.svg" alt="mongodb" width="40" height="40" style="margin: 0 6px"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="./icons/docker.svg" alt="docker" width="40" height="40" style="margin: 0 6px"/> </a>
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="./icons/aws.svg" alt="aws" width="40" height="40" style="margin: 0 6px"/> </a>
-<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="./icons/gcp.svg" alt="gcp" width="40" height="40" style="margin: 0 6px"/> </a>
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="./icons/tensorflow.svg" alt="tensorflow" width="40" height="40" style="margin: 0 6px"/> </a>
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="./icons/pytorch.svg" alt="pytorch" width="40" height="40" style="margin: 0 6px"/> </a>
-<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="./icons/swift.svg" alt="swift" width="40" height="40" style="margin: 0 6px"/> </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="./icons/python.svg" alt="python" width="40" height="40" style="margin: 0 8px"/> </a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="./icons/java.svg" alt="java" width="40" height="40" style="margin: 0 8px"/> </a>
+<a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="./icons/cplusplus.svg" alt="cplusplus" width="40" height="40" style="margin: 0 8px"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="./icons/javascript.svg" alt="javascript" width="40" height="40" style="margin: 0 8px"/> </a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="./icons/html5.svg" alt="html5" width="40" height="40" style="margin: 0 8px"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="./icons/css3.svg" alt="css3" width="40" height="40" style="margin: 0 8px"/> </a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="./icons/react.svg" alt="react" width="40" height="40" style="margin: 0 8px"/> </a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="./icons/nodejs.svg" alt="nodejs" width="40" height="40" style="margin: 0 8px"/> </a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="./icons/postgresql.svg" alt="postgresql" width="40" height="40" style="margin: 0 8px"/> </a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="./icons/mongodb.svg" alt="mongodb" width="40" height="40" style="margin: 0 8px"/> </a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="./icons/docker.svg" alt="docker" width="40" height="40" style="margin: 0 8px"/> </a>
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="./icons/aws.svg" alt="aws" width="40" height="40" style="margin: 0 8px"/> </a>
+<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="./icons/gcp.svg" alt="gcp" width="40" height="40" style="margin: 0 8px"/> </a>
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="./icons/tensorflow.svg" alt="tensorflow" width="40" height="40" style="margin: 0 8px"/> </a>
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="./icons/pytorch.svg" alt="pytorch" width="40" height="40" style="margin: 0 8px"/> </a>
+<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="./icons/swift.svg" alt="swift" width="40" height="40" style="margin: 0 8px"/> </a>
 
  </p>
 
