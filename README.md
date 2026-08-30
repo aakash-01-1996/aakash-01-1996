@@ -2,9 +2,9 @@
 <h3 align="center">Software Engineer based in New York City, NY</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 💻 Building **AI-Powered Assistants and exploring Agentic Workflows**
-
-- 🔗 Learning about **RAG, LangChain, and LangGraph**
+- 💻 Building **AI-powered assistants with multi-step agentic capabilities**
+ 
+- 🔗 Implementing **RAG architectures and graph-based workflow engines**
 
 - 🤝 I’m open to collaborate on **Open Source Projects**
 
