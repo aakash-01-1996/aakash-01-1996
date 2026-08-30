@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./assests/NYC.png" alt="Banner" width="100%" height="220" style="object-fit: cover; border-radius: 16px;" />
-</p>
-
 <h1 align="center">Hey 👋, I’m Aakash</h1>
 <h3 align="center">Software Engineer based in New York City, NY</h3>
 <img align="right" alt="Coding" width="400" style="border-radius: 12px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
